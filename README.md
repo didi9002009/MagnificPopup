@@ -1,0 +1,2 @@
+# MagnificPopup
+Created with CodeSandbox
